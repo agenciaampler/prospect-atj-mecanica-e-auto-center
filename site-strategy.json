@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Nota 4,6 no Google · 230 avaliações",
+    "hero_line": "Mecânica de confiança em Colombo e região. Diagnóstico honesto e orçamento pelo WhatsApp.",
+    "services_headline": "O que resolvemos no seu carro",
+    "services_intro": "Serviços completos para carros populares: Fiat, Chevrolet, Volkswagen, Renault, Hyundai, Toyota, Honda e Nissan.",
+    "split_headline": "Seu carro entra com problema e sai com solução",
+    "confidence_headline": "Por que a região confia na ATJ",
+    "location_headline": "Fácil de chegar, em Santa Terezinha, Colombo",
+    "steps_headline": "Como funciona o atendimento",
+    "faq_headline": "Perguntas frequentes",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Scanner e avaliação completa para achar a causa do problema. Você recebe o orçamento antes de qualquer serviço.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Pastilhas, discos, amortecedores e alinhamento. Peças de qualidade e teste antes da entrega.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Troca de óleo, filtros, correias e checagem geral. Evite gastos maiores e viaje tranquilo.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Orçamento transparente",
+            "body": "Você aprova antes. Sem surpresa na hora de pagar e sem serviço que não precisa.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Especialistas em populares",
+            "body": "Experiência com as marcas mais rodadas do Brasil, de Fiat a Toyota.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Resposta rápida no WhatsApp",
+            "body": "Mande uma mensagem, descreva o problema e receba orientação no mesmo dia.",
+            "icon": "ph-whatsapp-logo"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Preciso agendar ou posso chegar direto?",
+            "answer": "Recomendamos chamar no WhatsApp antes. Assim garantimos horário e agilizamos seu atendimento na oficina."
+        },
+        {
+            "question": "Vocês atendem quais marcas de carro?",
+            "answer": "Fiat, Chevrolet, Volkswagen, Renault, Hyundai, Toyota, Honda e Nissan, entre outras marcas populares."
+        },
+        {
+            "question": "O orçamento é cobrado?",
+            "answer": "Você recebe a avaliação e o orçamento antes de aprovar qualquer serviço. Fale com a gente pelo WhatsApp para saber os detalhes."
+        },
+        {
+            "question": "Onde fica a oficina?",
+            "answer": "Na Av. do Pôrto, 123, Santa Terezinha, em Colombo - PR. Atendemos Curitiba e toda a região metropolitana."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Mecânico brasileiro sorrindo ao lado de carro popular em pátio de oficina, dia claro e seco, luz natural, enquadramento vertical com espaço superior para texto.",
+        "hero_desktop": "Fachada limpa de oficina com carro popular na entrada, céu azul de Curitiba, sem placas ou logos visíveis, composição ampla com área livre à esquerda.",
+        "service_1": "Mãos de mecânico usando scanner de diagnóstico no painel do carro, interior iluminado, foco nas mãos e equipamento, sem marcas visíveis.",
+        "service_2": "Carro popular no elevador com mecânico verificando suspensão, oficina organizada, dia claro entrando pela porta, sem logos.",
+        "trust": "Cliente mulher recebendo a chave do carro de mecânico distinto do hero, aperto de mão ou sorriso genuíno, luz de dia, pátio seco.",
+        "og_image": "Composição horizontal 1200x630: mecânico e carro popular em oficina clara, espaço para nome ATJ Mecânica, cores azul e vermelho da marca em detalhes."
+    },
+    "quality_checks": [
+        "Contraste AA validado: azul #0F4C81 sobre branco e amarelo #F4C430 apenas em detalhes, nunca em texto pequeno sobre fundo claro.",
+        "CTA de WhatsApp fixo no mobile, com aria-label, link wa.me com mensagem pré-preenchida e schema LocalBusiness com endereço, horário e avaliações.",
+        "Copy revisada: frases curtas, acentuação correta, sem promessas de posição garantida no Google ou em IAs, apenas estrutura que favorece a descoberta."
+    ],
+    "created_by": "zenmux:anthropic/claude-fable-5",
+    "created_at": "2026-07-02T20:33:58-03:00"
+}
